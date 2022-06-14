@@ -8,3 +8,5 @@ def factorial(num):
         print("The factorial of", num,"is",fact)
 
 factorial(3)
+
+print('hello world')
